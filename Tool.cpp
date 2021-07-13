@@ -5,5 +5,6 @@ void funcTest()
 }
 void Manage()
 {
+    //add manage
     return;
 }
